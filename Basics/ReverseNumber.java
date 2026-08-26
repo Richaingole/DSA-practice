@@ -15,5 +15,6 @@ class ReverseNumber{
         }
 
         System.out.println("Reverse number is "+newno);
+        sc.close();
     }
 }
